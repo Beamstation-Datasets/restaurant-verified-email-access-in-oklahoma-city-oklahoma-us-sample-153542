@@ -1,12 +1,12 @@
 {
-  "export_job_id": "40eea718-4264-4669-86f7-ed65001c7268",
+  "export_job_id": "ffecd15a-a616-477d-bb26-43d4c08d88ba",
   "id_short": 153542,
-  "published_at": "2026-04-18T07:29:01Z",
+  "published_at": "2026-04-22T19:18:27Z",
   "repo_name": "restaurant-verified-email-access-in-oklahoma-city-oklahoma-us-sample-153542",
   "sample_asset_name": "beamstation_153542_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/153542/beamstation_153542_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_records": 37,
-  "sample_sha256": "712f21f0cdaf977d00aa941efa23570837005de190f15cd4a1b8b10aeef54a7a",
-  "sample_size_bytes": 165178,
-  "total_records": 377
+  "sample_records": 18,
+  "sample_sha256": "67d57127fb0e2c9d5ae2d9fd45076e41779ee7b4f2a85dde79e1ab42c1ddc494",
+  "sample_size_bytes": 88576,
+  "total_records": 187
 }
